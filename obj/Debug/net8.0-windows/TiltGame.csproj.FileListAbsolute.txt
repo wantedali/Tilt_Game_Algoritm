@@ -1,0 +1,67 @@
+C:\Users\Wissam\source\repos\TiltGame\TiltGame\bin\Debug\net8.0-windows\TiltGame.exe
+C:\Users\Wissam\source\repos\TiltGame\TiltGame\bin\Debug\net8.0-windows\TiltGame.deps.json
+C:\Users\Wissam\source\repos\TiltGame\TiltGame\bin\Debug\net8.0-windows\TiltGame.runtimeconfig.json
+C:\Users\Wissam\source\repos\TiltGame\TiltGame\bin\Debug\net8.0-windows\TiltGame.dll
+C:\Users\Wissam\source\repos\TiltGame\TiltGame\bin\Debug\net8.0-windows\TiltGame.pdb
+C:\Users\Wissam\source\repos\TiltGame\TiltGame\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Wissam\source\repos\TiltGame\TiltGame\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Wissam\source\repos\TiltGame\TiltGame\obj\Debug\net8.0-windows\TiltGame_MarkupCompile.cache
+C:\Users\Wissam\source\repos\TiltGame\TiltGame\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Wissam\source\repos\TiltGame\TiltGame\obj\Debug\net8.0-windows\TiltGame.g.resources
+C:\Users\Wissam\source\repos\TiltGame\TiltGame\obj\Debug\net8.0-windows\TiltGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wissam\source\repos\TiltGame\TiltGame\obj\Debug\net8.0-windows\TiltGame.AssemblyInfoInputs.cache
+C:\Users\Wissam\source\repos\TiltGame\TiltGame\obj\Debug\net8.0-windows\TiltGame.AssemblyInfo.cs
+C:\Users\Wissam\source\repos\TiltGame\TiltGame\obj\Debug\net8.0-windows\TiltGame.csproj.CoreCompileInputs.cache
+C:\Users\Wissam\source\repos\TiltGame\TiltGame\obj\Debug\net8.0-windows\TiltGame.dll
+C:\Users\Wissam\source\repos\TiltGame\TiltGame\obj\Debug\net8.0-windows\refint\TiltGame.dll
+C:\Users\Wissam\source\repos\TiltGame\TiltGame\obj\Debug\net8.0-windows\TiltGame.pdb
+C:\Users\Wissam\source\repos\TiltGame\TiltGame\obj\Debug\net8.0-windows\TiltGame.genruntimeconfig.cache
+C:\Users\Wissam\source\repos\TiltGame\TiltGame\obj\Debug\net8.0-windows\ref\TiltGame.dll
+C:\Users\Wissam\OneDrive\Desktop\TiltGame\TiltGame\bin\Debug\net8.0-windows\TiltGame.exe
+C:\Users\Wissam\OneDrive\Desktop\TiltGame\TiltGame\bin\Debug\net8.0-windows\TiltGame.deps.json
+C:\Users\Wissam\OneDrive\Desktop\TiltGame\TiltGame\bin\Debug\net8.0-windows\TiltGame.runtimeconfig.json
+C:\Users\Wissam\OneDrive\Desktop\TiltGame\TiltGame\bin\Debug\net8.0-windows\TiltGame.dll
+C:\Users\Wissam\OneDrive\Desktop\TiltGame\TiltGame\bin\Debug\net8.0-windows\TiltGame.pdb
+C:\Users\Wissam\OneDrive\Desktop\TiltGame\TiltGame\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Wissam\OneDrive\Desktop\TiltGame\TiltGame\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Wissam\OneDrive\Desktop\TiltGame\TiltGame\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Wissam\OneDrive\Desktop\TiltGame\TiltGame\obj\Debug\net8.0-windows\TiltGame_MarkupCompile.cache
+C:\Users\Wissam\OneDrive\Desktop\TiltGame\TiltGame\obj\Debug\net8.0-windows\TiltGame.g.resources
+C:\Users\Wissam\OneDrive\Desktop\TiltGame\TiltGame\obj\Debug\net8.0-windows\TiltGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wissam\OneDrive\Desktop\TiltGame\TiltGame\obj\Debug\net8.0-windows\TiltGame.AssemblyInfoInputs.cache
+C:\Users\Wissam\OneDrive\Desktop\TiltGame\TiltGame\obj\Debug\net8.0-windows\TiltGame.AssemblyInfo.cs
+C:\Users\Wissam\OneDrive\Desktop\TiltGame\TiltGame\obj\Debug\net8.0-windows\TiltGame.csproj.CoreCompileInputs.cache
+C:\Users\Wissam\OneDrive\Desktop\TiltGame\TiltGame\obj\Debug\net8.0-windows\TiltGame.dll
+C:\Users\Wissam\OneDrive\Desktop\TiltGame\TiltGame\obj\Debug\net8.0-windows\refint\TiltGame.dll
+C:\Users\Wissam\OneDrive\Desktop\TiltGame\TiltGame\obj\Debug\net8.0-windows\TiltGame.pdb
+C:\Users\Wissam\OneDrive\Desktop\TiltGame\TiltGame\obj\Debug\net8.0-windows\TiltGame.genruntimeconfig.cache
+C:\Users\Wissam\OneDrive\Desktop\TiltGame\TiltGame\obj\Debug\net8.0-windows\ref\TiltGame.dll
+C:\Users\Wissam\OneDrive\Desktop\TiltGame\TiltGame\obj\Debug\net8.0-windows\Window1.baml
+C:\Users\Wissam\OneDrive\Desktop\TiltGame\TiltGame\obj\Debug\net8.0-windows\Window1.g.cs
+C:\Users\Wissam\OneDrive\Desktop\TiltGame\TiltGame\obj\Debug\net8.0-windows\Window2.g.cs
+C:\Users\Wissam\OneDrive\Desktop\TiltGame\TiltGame\obj\Debug\net8.0-windows\TiltGame_MarkupCompile.lref
+C:\Users\Wissam\OneDrive\Desktop\TiltGame\TiltGame\obj\Debug\net8.0-windows\Window2.baml
+D:\Algo\Project\[4] Tilt Game\TiltGame\TiltGame\bin\Debug\net8.0-windows\TiltGame.exe
+D:\Algo\Project\[4] Tilt Game\TiltGame\TiltGame\bin\Debug\net8.0-windows\TiltGame.deps.json
+D:\Algo\Project\[4] Tilt Game\TiltGame\TiltGame\bin\Debug\net8.0-windows\TiltGame.runtimeconfig.json
+D:\Algo\Project\[4] Tilt Game\TiltGame\TiltGame\bin\Debug\net8.0-windows\TiltGame.dll
+D:\Algo\Project\[4] Tilt Game\TiltGame\TiltGame\bin\Debug\net8.0-windows\TiltGame.pdb
+D:\Algo\Project\[4] Tilt Game\TiltGame\TiltGame\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Algo\Project\[4] Tilt Game\TiltGame\TiltGame\obj\Debug\net8.0-windows\Window1.baml
+D:\Algo\Project\[4] Tilt Game\TiltGame\TiltGame\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Algo\Project\[4] Tilt Game\TiltGame\TiltGame\obj\Debug\net8.0-windows\Window1.g.cs
+D:\Algo\Project\[4] Tilt Game\TiltGame\TiltGame\obj\Debug\net8.0-windows\Window2.g.cs
+D:\Algo\Project\[4] Tilt Game\TiltGame\TiltGame\obj\Debug\net8.0-windows\App.g.cs
+D:\Algo\Project\[4] Tilt Game\TiltGame\TiltGame\obj\Debug\net8.0-windows\TiltGame_MarkupCompile.cache
+D:\Algo\Project\[4] Tilt Game\TiltGame\TiltGame\obj\Debug\net8.0-windows\TiltGame_MarkupCompile.lref
+D:\Algo\Project\[4] Tilt Game\TiltGame\TiltGame\obj\Debug\net8.0-windows\Window2.baml
+D:\Algo\Project\[4] Tilt Game\TiltGame\TiltGame\obj\Debug\net8.0-windows\TiltGame.g.resources
+D:\Algo\Project\[4] Tilt Game\TiltGame\TiltGame\obj\Debug\net8.0-windows\TiltGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Algo\Project\[4] Tilt Game\TiltGame\TiltGame\obj\Debug\net8.0-windows\TiltGame.AssemblyInfoInputs.cache
+D:\Algo\Project\[4] Tilt Game\TiltGame\TiltGame\obj\Debug\net8.0-windows\TiltGame.AssemblyInfo.cs
+D:\Algo\Project\[4] Tilt Game\TiltGame\TiltGame\obj\Debug\net8.0-windows\TiltGame.csproj.CoreCompileInputs.cache
+D:\Algo\Project\[4] Tilt Game\TiltGame\TiltGame\obj\Debug\net8.0-windows\TiltGame.dll
+D:\Algo\Project\[4] Tilt Game\TiltGame\TiltGame\obj\Debug\net8.0-windows\refint\TiltGame.dll
+D:\Algo\Project\[4] Tilt Game\TiltGame\TiltGame\obj\Debug\net8.0-windows\TiltGame.pdb
+D:\Algo\Project\[4] Tilt Game\TiltGame\TiltGame\obj\Debug\net8.0-windows\TiltGame.genruntimeconfig.cache
+D:\Algo\Project\[4] Tilt Game\TiltGame\TiltGame\obj\Debug\net8.0-windows\ref\TiltGame.dll
