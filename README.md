@@ -33,14 +33,7 @@ We use the **Breadth-First Search (BFS)** algorithm to explore the possible move
 4. If no solution exists, it reports "No Solution."
 
 ## Usage
-### **Running the Solver**
-```sh
-# Compile the C# project
-csc TiltGameSolver.cs
 
-# Run the executable
-TiltGameSolver.exe
-```
 
 ### **Example Input**
 ```
